@@ -1,0 +1,27 @@
+@import "_header";
+
+
+body{
+	font-size: 20px;
+	div{	
+		font-size: 10px;
+		
+	}
+}
+h1{
+	color: red;
+}
+
+ .red{
+	color: red;
+	
+}
+
+ .blue{
+	color: green;
+}
+@media (max-width: 767px){
+	.red{
+		border:0;
+	}
+}
